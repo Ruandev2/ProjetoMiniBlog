@@ -2,7 +2,7 @@
   "name": "miniblog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ruandev2.github.io/ProjetoMiniblog/",
+  "homepage": "https://ruandev2.github.io/ProjetoMiniblog",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
